@@ -1,0 +1,32 @@
+Arguments: 
+  C:\myprograms\node.js\node.exe C:\myprograms\yarn\bin\yarn.js start:dev
+
+PATH: 
+  C:\myprograms\git\mingw64\bin;C:\myprograms\git\usr\bin;C:\Users\celokuhlo.myeza\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\myprograms\git\cmd;C:\myprograms\maven\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\myprograms\maven\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\myprograms\web servers\wildfly\wildfly-11.0.0.Final\wildfly-11.0.0.Final\bin;C:\Program Files (x86)\Bitvise SSH Client;C:\myprograms\web servers\payara\payara-4.1.2.174\payara41\bin;C:\Users\celokuhlo.myeza\Desktop;C:\myprograms\node.js;C:\myprograms\yarn\bin;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn;C:\Program Files\Microsoft SQL Server\140\Tools\Binn;C:\Program Files\Microsoft SQL Server\140\DTS\Binn;C:\Users\celokuhlo.myeza\AppData\Local\Microsoft\WindowsApps;C:\myprograms\git\;C:\myprograms\java\jdk_inst\bin;C:\myprograms\database servers\postgres\bin;C:\Users\celokuhlo.myeza\AppData\Roaming\npm;C:\myprograms\ide's\vs code\bin;C:\Users\celokuhlo.myeza\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.10.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "C:\\myworkbench\\private\\cmb\\lucky_numbers_generator\\winning_numbers_generator"
+      at new MessageError (C:\myprograms\yarn\lib\cli.js:186:110)
+      at C:\myprograms\yarn\lib\cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (C:\myprograms\yarn\lib\cli.js:98:30)
+      at C:\myprograms\yarn\lib\cli.js:109:13
+      at <anonymous>
